@@ -1,5 +1,5 @@
 import React from "react";
-import { createBrowserRouter } from "react-router-dom";
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Country from "./pages/Country";
 import Contact from "./pages/Contact";
 import Home from "./pages/Home";
@@ -24,7 +24,9 @@ const router = createBrowserRouter([
 ]);
 
 const App = () => {
-  return <div className="bg-zinc-900 w-screen h-screen">App</div>;
+  return <div className="bg-zinc-900 w-screen h-screen">
+    return <RouterProvider router={router}/>
+  </div>;
 };
 
 export default App;
