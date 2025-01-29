@@ -1,8 +1,15 @@
 import React from 'react'
 
+import HeroSection from '../components/layout/UI/HeroSection'
+import About from './About'
+
 const Home = () => {
   return (
-    <div>Home Page</div>
+    <>
+      <HeroSection/>
+      <About/>
+
+    </>
   )
 }
 

@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "countryName": "Canada",
+      "capital": "Ottawa",
+      "population": 38008005,
+      "interestingFact": "Canada has the longest coastline in the world."
+    },
+    {
+      "id": 2,
+      "countryName": "Brazil",
+      "capital": "Brasília",
+      "population": 211049527,
+      "interestingFact": "The Amazon Rainforest in Brazil is the largest rainforest in the world."
+    },
+    {
+      "id": 3,
+      "countryName": "Japan",
+      "capital": "Tokyo",
+      "population": 125584838,
+      "interestingFact": "Japan is made up of over 6,800 islands."
+    },
+    {
+      "id": 4,
+      "countryName": "Australia",
+      "capital": "Canberra",
+      "population": 25687041,
+      "interestingFact": "Australia is home to the Great Barrier Reef, the world's largest coral reef system."
+    },
+    {
+      "id": 5,
+      "countryName": "Germany",
+      "capital": "Berlin",
+      "population": 83166711,
+      "interestingFact": "Germany is known for its precision engineering and is the birthplace of the automobile."
+    },
+    {
+      "id": 6,
+      "countryName": "India",
+      "capital": "New Delhi",
+      "population": 1366417754,
+      "interestingFact": "India is the world's largest democracy by population."
+    },
+    {
+      "id": 7,
+      "countryName": "South Africa",
+      "capital": "Pretoria",
+      "population": 59308690,
+      "interestingFact": "South Africa is known for its diverse culture and is home to the famous Kruger National Park."
+    },
+    {
+      "id": 8,
+      "countryName": "France",
+      "capital": "Paris",
+      "population": 67413000,
+      "interestingFact": "France is known for its iconic Eiffel Tower and delicious wines."
+    },
+    {
+      "id": 9,
+      "countryName": "Russia",
+      "capital": "Moscow",
+      "population": 145912025,
+      "interestingFact": "Russia is the largest country in the world by land area."
+    },
+    {
+      "id": 10,
+      "countryName": "United Kingdom",
+      "capital": "London",
+      "population": 68207114,
+      "interestingFact": "The UK is home to the oldest operating parliament in the world."
+    }
+  ]
+  
