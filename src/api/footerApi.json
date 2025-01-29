@@ -1,0 +1,17 @@
+[
+    {
+        "icon":"MdPlace",
+        "title":"Find us",
+        "details":"Mumbai, Maharashtra"
+    },
+    {
+        "icon":"IoCallSharp",
+        "title":"Call Us",
+        "details":"1234567889"
+    },
+    {
+        "icon":"TbMailPlus",
+        "title":"Mail us",
+        "details":"contact@worldatlas.com"
+    }
+]
