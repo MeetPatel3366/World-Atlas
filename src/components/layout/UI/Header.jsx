@@ -1,7 +1,12 @@
-import React from "react";
+import React, { useState } from "react";
+import { GiHamburgerMenu } from "react-icons/gi";
 import { NavLink } from "react-router-dom";
 
 const Header = () => {
+  const [show,setShow]=useState(false)
+  const handleButtonToggle=()=>{
+    return setShow(!show)
+  }
   return (
     <header className="w-screen h-9 bg-zinc-600">
       <div className="max-w-[80rem] m-auto">
@@ -25,11 +30,12 @@ const Header = () => {
               <li>
                 <NavLink to="/contact">Contact</NavLink>
               </li>
-              <li>
-                <NavLink to="/"></NavLink>
-              </li>
             </ul>
           </nav>
+
+          <div>
+            <button onClick={handleButtonToggle}><GiHamburgerMenu/></button>
+          </div>
         </div>
       </div>
     </header>
